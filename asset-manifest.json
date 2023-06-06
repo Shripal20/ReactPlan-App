@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactPlan-App/static/css/main.d9d69ef5.css",
+    "main.js": "/ReactPlan-App/static/js/main.13344dca.js",
+    "static/js/787.2afbd57d.chunk.js": "/ReactPlan-App/static/js/787.2afbd57d.chunk.js",
+    "index.html": "/ReactPlan-App/index.html",
+    "main.d9d69ef5.css.map": "/ReactPlan-App/static/css/main.d9d69ef5.css.map",
+    "main.13344dca.js.map": "/ReactPlan-App/static/js/main.13344dca.js.map",
+    "787.2afbd57d.chunk.js.map": "/ReactPlan-App/static/js/787.2afbd57d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d69ef5.css",
+    "static/js/main.13344dca.js"
+  ]
+}
